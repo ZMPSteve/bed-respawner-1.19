@@ -1,11 +1,11 @@
 {
     "type": "code",
     "modid": "bedrespawner",
-    "name": "Bed Respawnner",
-    "author": "Realms of Andora",
+    "name": "Bed Respawner",
+    "author": "ZMP Steve forked from Realms of Andora",
     "description": "Using beds to set your respawn point",
     "version": "1.0.0",
     "dependency": {
-      "game": "1.18.1"
+      "game": "1.19.7"
     }
   }
